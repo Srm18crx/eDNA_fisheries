@@ -1,2 +1,2 @@
-# eDNA_fisheries
+# nano_fisheries
 analyses
